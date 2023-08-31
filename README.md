@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/sauravkumarrajak)
 
-<h1 align="center">Hi 👋, I'm Saurav Rajak</h1>
+<h1 align="center">Hi 👋  I'm Saurav Kumar Rajak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDduYnZheDBtcmdrenZ0NDFyamc1dmlpcTluaXN4c2x5MTNieDVmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **python , JavaScript , java**
 
-- 📫 Reach Out to me **sauravrajak47@gmail.com**
+- 📫 Reach Out to me **sauravrajak@outlook.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
